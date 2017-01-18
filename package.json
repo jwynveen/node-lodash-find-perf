@@ -1,0 +1,19 @@
+{
+  "name": "node-lodash-find-perf",
+  "version": "1.0.0",
+  "description": "Test of difference in performance between lodash find and keyBy methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwynveen/node-lodash-find-perf.git"
+  },
+  "author": "Jon Wynveen <jonwynveen@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/jwynveen/node-lodash-find-perf#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
