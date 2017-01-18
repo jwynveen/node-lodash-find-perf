@@ -55,5 +55,8 @@ runTest(100, 10000);
 runTest(1000, 100);
 runTest(1000, 1000);
 runTest(1000, 10000);
+runTest(1000, 1000000);
+runTest(10000, 1000000);
+runTest(100000, 1000000);
 
 console.log('Done!');
